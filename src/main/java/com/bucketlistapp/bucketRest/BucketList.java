@@ -1,4 +1,4 @@
-package com.zerotoproduction.firstrest;
+package com.bucketlistapp.bucketRest;
 
 public class BucketList {
 
